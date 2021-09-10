@@ -3,7 +3,8 @@
 - I’m currently learning how to code.
 - I’m looking to collaborate on coding projects.
 - One thing that excites me is going to the beach with friends.
--       You can reach me @rharr24@germantownacademy.com
+
+ You can reach me *@rharr24@germantownacademy.com*
 
 <!---
 Roanharrington/Roanharrington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
